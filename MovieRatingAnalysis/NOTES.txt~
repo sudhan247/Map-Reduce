@@ -1,4 +1,0 @@
-#Create jar with Eclipse using TopK.java
-#Command to execute
-hadoop jar movie.jar movie_rating.txt /out
-
