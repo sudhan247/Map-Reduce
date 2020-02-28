@@ -1,0 +1,4 @@
+#Create jar with Eclipse using Average_fare.java
+#Command to execute
+hadoop jar titanic.jar TitanicData.txt /output
+

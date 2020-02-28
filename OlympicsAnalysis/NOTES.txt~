@@ -1,0 +1,4 @@
+#Create jar with Eclipse using year_medal.java
+#Command to execute
+hadoop jar titanic.jar TitanicData.txt /output
+

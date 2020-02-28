@@ -1,0 +1,3 @@
+#Compile uber1.java
+#To run command
+hadoop jar uber.jar uberdata.txt /out
