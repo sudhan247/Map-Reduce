@@ -1,4 +1,0 @@
-#Create jar with Eclipse
-#Command to execute
-hadoop jar titanic.jar TitanicData.txt /output
-
