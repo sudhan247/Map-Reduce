@@ -1,8 +1,0 @@
-#To compile all java files and create class files for all
-hadoop com.sun.tools.javac.Main *.java
-#To combine all class files into a jar file
-jar cf recommender.jar *.class
-#To run in hadoop
-hadoop jar recommend.jar Driver rating.txt  /out/userRating /out/userAvgRating
-
-
